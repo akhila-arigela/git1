@@ -1,2 +1,2 @@
 # git1
-it is my repository
+it is my repository in github
